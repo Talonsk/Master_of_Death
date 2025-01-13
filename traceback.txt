@@ -1,0 +1,28 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/options.rpy", line 83, in script
+    define config.main_menu_music_volume = 0.0
+  File "renpy/common/000namespaces.rpy", line 34, in set
+    setattr(self.nso, name, value)
+Exception: config.main_menu_music_volume is not a known configuration variable.
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/options.rpy", line 83, in script
+    define config.main_menu_music_volume = 0.0
+  File "C:\Users\Guest\OneDrive\RenPy\renpy-8.2.3-sdk\renpy\ast.py", line 2241, in execute
+    self.set()
+  File "C:\Users\Guest\OneDrive\RenPy\renpy-8.2.3-sdk\renpy\ast.py", line 2259, in set
+    ns.set(self.varname, value)
+  File "renpy/common/000namespaces.rpy", line 34, in set
+    setattr(self.nso, name, value)
+  File "C:\Users\Guest\OneDrive\RenPy\renpy-8.2.3-sdk\renpy\defaultstore.py", line 101, in __setattr__
+    raise Exception('config.%s is not a known configuration variable.' % (name))
+Exception: config.main_menu_music_volume is not a known configuration variable.
+
+Windows-10-10.0.19045 AMD64
+Ren'Py 8.3.4.24120703
+Master_of_Death alfa-1.2
+Sun Jan 12 02:59:12 2025

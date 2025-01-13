@@ -1,0 +1,166 @@
+7DOTS.rpy
+7DOTS.rpyc
+ImprovRus.otf
+Phorssa.ttf
+gui.rpy
+gui.rpyc
+kinetic_text_tags.rpy
+kinetic_text_tags.rpyc
+options.rpy
+options.rpyc
+screens.rpy
+screens.rpyc
+script.rpy
+script.rpyc
+.idea\.gitignore
+.idea\game.iml
+.idea\misc.xml
+.idea\modules.xml
+.idea\workspace.xml
+.idea\inspectionProfiles\Project_Default.xml
+.idea\inspectionProfiles\profiles_settings.xml
+.vscode\settings.json
+audio\jutkoe_ryichanie_zloy_sobaki.mp3
+audio\kogti_ptitsyi.mp3
+cache\bytecode-39.rpyb
+cache\py3analysis.rpyb
+cache\screens.rpyb
+cache\shaders.txt
+gui\bubble.png
+gui\frame.png
+gui\game_menu.png
+gui\main_menu.png
+gui\namebox.png
+gui\notify.png
+gui\nvl.png
+gui\skip.png
+gui\textbox.png
+gui\thoughtbubble.png
+gui\window_icon.png
+gui\bar\bottom.png
+gui\bar\left.png
+gui\bar\right.png
+gui\bar\top.png
+gui\button\check_foreground.png
+gui\button\check_selected_foreground.png
+gui\button\choice_hover_background.png
+gui\button\choice_idle_background.png
+gui\button\hover_background.png
+gui\button\idle_background.png
+gui\button\quick_hover_background.png
+gui\button\quick_idle_background.png
+gui\button\radio_foreground.png
+gui\button\radio_selected_foreground.png
+gui\button\slot_hover_background.png
+gui\button\slot_idle_background.png
+gui\overlay\confirm.png
+gui\overlay\game_menu.png
+gui\overlay\main_menu.png
+gui\phone\nvl.png
+gui\phone\textbox.png
+gui\phone\bar\bottom.png
+gui\phone\bar\left.png
+gui\phone\bar\right.png
+gui\phone\bar\top.png
+gui\phone\button\check_foreground.png
+gui\phone\button\check_selected_foreground.png
+gui\phone\button\choice_hover_background.png
+gui\phone\button\choice_idle_background.png
+gui\phone\button\hover_background.png
+gui\phone\button\idle_background.png
+gui\phone\button\radio_foreground.png
+gui\phone\button\radio_selected_foreground.png
+gui\phone\button\slot_hover_background.png
+gui\phone\button\slot_idle_background.png
+gui\phone\overlay\game_menu.png
+gui\phone\overlay\main_menu.png
+gui\phone\scrollbar\horizontal_hover_bar.png
+gui\phone\scrollbar\horizontal_hover_thumb.png
+gui\phone\scrollbar\horizontal_idle_bar.png
+gui\phone\scrollbar\horizontal_idle_thumb.png
+gui\phone\scrollbar\vertical_hover_bar.png
+gui\phone\scrollbar\vertical_hover_thumb.png
+gui\phone\scrollbar\vertical_idle_bar.png
+gui\phone\scrollbar\vertical_idle_thumb.png
+gui\phone\slider\horizontal_hover_bar.png
+gui\phone\slider\horizontal_hover_thumb.png
+gui\phone\slider\horizontal_idle_bar.png
+gui\phone\slider\horizontal_idle_thumb.png
+gui\phone\slider\vertical_hover_bar.png
+gui\phone\slider\vertical_hover_thumb.png
+gui\phone\slider\vertical_idle_bar.png
+gui\phone\slider\vertical_idle_thumb.png
+gui\scrollbar\horizontal_hover_bar.png
+gui\scrollbar\horizontal_hover_thumb.png
+gui\scrollbar\horizontal_idle_bar.png
+gui\scrollbar\horizontal_idle_thumb.png
+gui\scrollbar\vertical_hover_bar.png
+gui\scrollbar\vertical_hover_thumb.png
+gui\scrollbar\vertical_idle_bar.png
+gui\scrollbar\vertical_idle_thumb.png
+gui\slider\horizontal_hover_bar.png
+gui\slider\horizontal_hover_thumb.png
+gui\slider\horizontal_idle_bar.png
+gui\slider\horizontal_idle_thumb.png
+gui\slider\vertical_hover_bar.png
+gui\slider\vertical_hover_thumb.png
+gui\slider\vertical_idle_bar.png
+gui\slider\vertical_idle_thumb.png
+images\bg\bg cafe.png
+images\bg\bg entrance.png
+images\bg\bg room.png
+images\bg\bg room2.png
+images\bg\bg street.png
+images\characters\drake\drake angry.png
+images\characters\drake\drake looking.png
+images\characters\drake\drake rage.png
+images\characters\drake\drake.png
+images\characters\mazelov\mazelov asks.png
+images\characters\mazelov\mazelov looking.png
+images\characters\mazelov\mazelov nerd.png
+images\characters\mazelov\mazelov scared.png
+images\characters\mazelov\mazelov terrified.png
+images\characters\mazelov\mazelov.png
+images\characters\stint\stint focused.png
+images\characters\stint\stint smiling.png
+images\characters\stint\stint.png
+images\characters\toxa\toxa asks.png
+images\characters\toxa\toxa looking.png
+images\characters\toxa\toxa says.png
+images\characters\toxa\toxa scared.png
+images\characters\toxa\toxa.png
+images\cutscenes\cutscenes cafe.png
+images\cutscenes\cutscenes leaflet.png
+images\cutscenes\cutscenes mazelov_leaflet.png
+images\filtrs\filtrs maxresdefault.jpg
+images\filtrs\filtrs vhs.jpg
+images\meme\arrow.png
+images\meme\big_dady.jpg
+images\meme\chill_gay.jpg
+images\meme\dream.jpg
+images\meme\frend_in_dark.jpg
+images\meme\galary_icon.png
+images\meme\lake.jpg
+images\meme\motomoto.jpg
+images\meme\soger_mazelov.jpg
+images\meme\update_drake.jpg
+images\meme\vova_poster.jpg
+saves\_reload-2-LT1.save
+saves\auto-1-LT1.save
+saves\auto-10-LT1.save
+saves\auto-2-LT1.save
+saves\auto-3-LT1.save
+saves\auto-4-LT1.save
+saves\auto-5-LT1.save
+saves\auto-6-LT1.save
+saves\auto-7-LT1.save
+saves\auto-8-LT1.save
+saves\auto-9-LT1.save
+saves\navigation.json
+saves\persistent
+saves\sync\_reload-1-LT1.save
+saves\sync\_reload-2-LT1.save
+saves\sync\auto-1-LT1.save
+saves\sync\persistent
+tl\None\common.rpym
+tl\None\common.rpymc

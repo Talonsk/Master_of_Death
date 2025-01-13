@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/gui.rpy", line 450: invalid syntax
+        gui.name_ypos = 25s
+                           ^
+
+Ren'Py Version: Ren'Py 8.3.4.24120703
+Sun Jan 12 12:40:23 2025
